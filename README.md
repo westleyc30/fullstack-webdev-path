@@ -6,6 +6,7 @@
 
 | Progress | Type | Item | Project(s) | Date |
 | :------: | ------ | ------ | ------------ | :-------: |
+| Week 3 | Course | [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) |  | Sept 10 |
 | Week 1: Lecture | Course | [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)  on edX |  | sept 10 |
 | Completed | Course |  [Team Treehouse](https://teamtreehouse.com/tracks) or [Codeschool](https://www.codeschool.com/learn/html-css)'s HTML, CSS Path (Paid) or Shay Howe's [HTML,CSS](http://learn.shayhowe.com/html-css/) Course |    |   |
 | Completed | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) |   |    |
@@ -13,7 +14,7 @@
 | Completed | Course | Learn flexbox from [Flexbox.io](https://flexbox.io/) OR [Flexboxfroggy](http://flexboxfroggy.com/) |   |    |
 |   | Course | Learn [Sass](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) |   |    |
 |  | Project | Refactor the portfolio site layout and CSS using Flexbox and Sass |   |    |
-| | Course | [Watch N Code Practical Javascript](https://watchandcode.com/p/practical-javascript) |  |    |
+| 30% | Course | [Watch N Code Practical Javascript](https://watchandcode.com/p/practical-javascript) |  |    |
 | Chapter 4 | Book | [Eloquent Javascript](http://eloquentjavascript.net/) |   | Sept 10 |
 | Completed | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) |   | Sept 10 |
 |  | Course | Learn DOM manipulation |   |    |
